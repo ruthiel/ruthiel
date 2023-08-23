@@ -1,5 +1,14 @@
 ### Hello! I'm Ruthiel 👋
 
+Follow me on:
+- <a href="https://www.linkedin.com/in/ruthiel-t-b8735b113/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+## SAP Community Bagdes
+<a href="https://people.sap.com/ruthiel#reputation">
+  <img align="center" src="https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/showcaseBadges/ruthiel" />
+</a>
+</p>
+
 <!--
 **ruthiel/ruthiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
