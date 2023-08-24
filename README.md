@@ -5,7 +5,7 @@ Follow me on:
 
 ## SAP Community Bagdes
 <a href="https://people.sap.com/ruthiel#reputation">
-  <img align="center" src="https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/showcaseBadges/ruthiel" />
+  <img align="center" src="https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/showcaseBadges/ruthieltrevisan" />
 </a>
 </p>
 
