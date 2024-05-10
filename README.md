@@ -4,7 +4,7 @@ Follow me on:
 - <a href="https://www.linkedin.com/in/ruthiel-t-b8735b113/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ## SAP Community Bagdes
-<a href="https://community.sap.com/t5/user/viewprofilepage/user-id/120859" target="_blank"><img src="https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/showcaseBadgesGroups/120859/1514/1517/1521/1523/1497" /></a>
+<a href="https://community.sap.com/t5/user/viewprofilepage/user-id/Ruthiel" target="_blank"><img src="https://devrel-tools-prod-scn-badges-srv.cfapps.eu10.hana.ondemand.com/showcaseBadgesGroups/120859/1514/1517/1521/1523/1497" /></a>
 </p>
 
 <!--
